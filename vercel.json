@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://wmgv2test.figma.site/",
+      "permanent": false
+    }
+  ]
+}
